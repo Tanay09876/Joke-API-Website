@@ -50,8 +50,10 @@ joke-api-website/
 ├── public/
 │   └── css/
 │       └── styles.css
+
 ├── views/
 │   └── index.ejs
+
 ├── index.mjs
 ├── package.json
 ├── package-lock.json
@@ -87,7 +89,6 @@ joke-api-website/
 
 
 
-![QuickDraw Bage ](https://github.com/Tanay09876/Portfolio/issues/1#issue-2459620935)
 
 
 
